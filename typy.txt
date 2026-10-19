@@ -1,0 +1,52 @@
+rental unit
+condo
+home
+villa
+serviced apartment
+guesthouse
+guest suite
+townhouse
+boutique hotel
+hotel
+bed and breakfast
+cottage
+loft
+pension
+bungalow
+hostel
+cabin
+aparthotel
+tiny home
+farm stay
+resort
+place
+nature lodge
+hut
+vacation home
+room
+chalet
+minsu
+apartment
+house
+earthen home
+heritage hotel
+dome
+condominium (condo)
+residential home
+barn
+condominium
+dorm
+houseboat
+treehouse
+floor
+camper/rv
+castle
+train
+tent
+casa particular
+shipping container
+holiday park
+home/apt
+religious building
+boat
+tower
